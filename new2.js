@@ -1,3 +1,3 @@
 function al(){
-    console.log("asd");
+    console.log("asssd");
 }
